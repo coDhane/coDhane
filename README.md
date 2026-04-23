@@ -106,6 +106,7 @@
 </div>
 
 ###
+
 <div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31emca6q332ojvch3kclz6aindjq&unique={true|1|on|yes})
 </div>
